@@ -1,0 +1,20 @@
+
+
+thota@Thota_Sai MINGW64 /e/Git-Pratice2 (master)
+$ ls
+Y23ACS548/  index.html
+
+thota@Thota_Sai MINGW64 /e/Git-Pratice2 (master)
+$ cd Y23ACS548
+
+thota@Thota_Sai MINGW64 /e/Git-Pratice2/Y23ACS548 (master)
+$ ls
+Git-BasicCommands/  git-branching/  git-prtaice.txt  gitfetch/  index.html  style.css  t1.txt
+
+thota@Thota_Sai MINGW64 /e/Git-Pratice2/Y23ACS548 (master)
+$ nano f1.txt
+
+After the user is done with the modifications in the Local repository, there is a need to push these changes to the remote repository.
+ This can be done with the git push command. 
+Users can define which branch is to be pushed into the repository by passing its name as an argument. By default, 
+the data will be pushed from the current branch into the same branch of the remote repository. 

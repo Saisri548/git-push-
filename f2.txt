@@ -1,0 +1,14 @@
+Step 1: Make sure that your local and  Git repositories are up.
+
+Step 2: Stage the modified files using the command line below.
+
+git add .
+(.) represents all the untracked files. If you want to move a specific file then you can the following command.
+
+git add <name of the file>
+Step 3: Commit the staged files into the local repository using the following command. Provide a commit message that details the changes you made and is descriptive.
+
+git commit -m "message"
+Step 4: Push the commit to the remote repository from there other developers can access the code. Use the following command.
+
+git push <Renote URL>
